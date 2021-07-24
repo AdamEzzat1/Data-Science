@@ -1,2 +1,2 @@
-# Springboard_SQL_Project
-First project in Springboard's Data Science career track, SQL project
+# Machine Learning Platforms
++Databricks - Spark, Databricks- Apache Hadoop
